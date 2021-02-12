@@ -1,0 +1,8 @@
+C:\Users\fic\Documents\InstaDev\obj\Debug\net5.0\InstaDev.csprojAssemblyReference.cache
+C:\Users\fic\Documents\InstaDev\obj\Debug\net5.0\InstaDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\InstaDev\obj\Debug\net5.0\InstaDev.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\InstaDev\obj\Debug\net5.0\InstaDev.AssemblyInfo.cs
+C:\Users\fic\Documents\InstaDev\obj\Debug\net5.0\InstaDev.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\InstaDev\obj\Debug\net5.0\InstaDev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Documents\InstaDev\obj\Debug\net5.0\InstaDev.RazorAssemblyInfo.cache
+C:\Users\fic\Documents\InstaDev\obj\Debug\net5.0\InstaDev.RazorAssemblyInfo.cs

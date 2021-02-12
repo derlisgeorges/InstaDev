@@ -3,7 +3,7 @@ using System.IO;
 
 namespace InstaDev.Models
 {
-    public class Usuario : InstadevBase IUsuario 
+    public class Usuario : InstadevBase , IUsuario 
     {
         public int IdUsuario { get; set; }
 
